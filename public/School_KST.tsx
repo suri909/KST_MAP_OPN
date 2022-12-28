@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.2" name="School_KST" tilewidth="32" tileheight="32" tilecount="52" columns="0">
+<tileset version="1.9" tiledversion="1.9.2" name="School_KST" tilewidth="32" tileheight="32" tilecount="51" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="../../../../Desktop/Workadventure_KST/Blöcke/Wände/1.png"/>
@@ -154,12 +154,4 @@
  <tile id="52">
   <image width="32" height="32" source="../../../../Desktop/Workadventure_KST/Blöcke/Tür - Fenster/Fenster_groß_oben.png"/>
  </tile>
- <tile id="53">
-  <image width="32" height="32" source="../../../../Desktop/Workadventure_KST/Blöcke/Speicialzone/START.png"/>
- </tile>
- <wangsets>
-  <wangset name="Unbenannter Satz" type="corner" tile="-1">
-   <wangcolor name="" color="#ff0000" tile="-1" probability="1"/>
-  </wangset>
- </wangsets>
 </tileset>
