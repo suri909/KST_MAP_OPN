@@ -30,11 +30,11 @@
          "id":6,
          "name":"start",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":16,
          "type":"tilelayer",
          "visible":true,
-         "width":32,
+         "width":16,
          "x":0,
          "y":0
         }, 
@@ -3086,7 +3086,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/suri909.github.io\/KST_MAP_OPN\/map.json"
+         "value":"https:\/\/suri909.github.io\/KST_MAP_OPN\/"
         }, 
         {
          "name":"mapName",
